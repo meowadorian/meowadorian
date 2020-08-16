@@ -1,3 +1,7 @@
+<!--
+**mrmotionless/mrmotionless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 ### Hi there 👋, i'm Adrian
 
 - 🔭 I’m currently working on fun projects
@@ -19,7 +23,7 @@
 
 ### Get in touch:
 
-<img align="left" alt="Adrian Hillmann | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />@mr_hillmann
+<img align="left" alt="Adrian Hillmann | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />mr_hillmann
 <br />
 <img align="left" alt="Adrian Hillmann | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />DevilBlade#5203
 
@@ -30,11 +34,6 @@
 <img align="left" alt="Adrian's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmotionless&show_icons=true&hide_border=true&theme=radical" />
 <img align="right" alt="Adrian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrmotionless&show_icons=true&hide_border=true&theme=radical" />
 
-<!--
-**mrmotionless/mrmotionless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-[@mr_hilllmann]: https://twitter.com/mr_hillmann
 <!-- Tools -->
 [intellij]: https://www.jetbrains.com/idea/
 [git]: https://git-scm.com/
