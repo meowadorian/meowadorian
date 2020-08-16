@@ -24,7 +24,6 @@
 ### Get in touch:
 
 <img align="left" alt="Adrian Hillmann | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />mr_hillmann
-<br />
 <img align="left" alt="Adrian Hillmann | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />DevilBlade#5203
 
 <br />
