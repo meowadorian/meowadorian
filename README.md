@@ -19,10 +19,9 @@
 
 ### Get in touch:
 
-[<img align="left" alt="Adrian Hillmann | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<p id=discord><img align="left" alt="Adrian Hillmann | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></p>]
-
-<button onclick="copyToClipboard('#discord')">DevilBlade#5203</button>
+<img align="left" alt="Adrian Hillmann | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />@mr_hillmann
+<br />
+<img align="left" alt="Adrian Hillmann | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />DevilBlade#5203
 
 <br />
 
@@ -35,7 +34,7 @@
 **mrmotionless/mrmotionless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[twitter]: https://twitter.com/mr_hillmann
+[@mr_hilllmann]: https://twitter.com/mr_hillmann
 <!-- Tools -->
 [intellij]: https://www.jetbrains.com/idea/
 [git]: https://git-scm.com/
