@@ -37,8 +37,6 @@
 <img align="left" alt="Adrian's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmotionless&show_icons=true&hide_border=true&theme=radical" />
 <img align="right" alt="Adrian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrmotionless&show_icons=true&hide_border=true&theme=radical" />
 
----
-
 <!-- Tools -->
 [intellij]: https://www.jetbrains.com/idea/
 [git]: https://git-scm.com/
