@@ -2,12 +2,14 @@
 **mrmotionless/mrmotionless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi there 👋, i'm Adrian
+### Hi there, i'm Adrian 👋
 
 - 🔭 I’m currently working on fun projects
 - 🌱 I’m currently learning Python, C++ and C#
 - 👯 I’m looking to collaborate on open source software
 - ⚡ Fun fact: Linux can't love but kill
+
+---
 
 ### Languages and Tools:
 
@@ -34,6 +36,8 @@
 
 <img align="left" alt="Adrian's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmotionless&show_icons=true&hide_border=true&theme=radical" />
 <img align="right" alt="Adrian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrmotionless&show_icons=true&hide_border=true&theme=radical" />
+
+---
 
 <!-- Tools -->
 [intellij]: https://www.jetbrains.com/idea/
