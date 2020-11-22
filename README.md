@@ -5,7 +5,7 @@
 ### Hi there, i'm Adrian 👋
 
 - 🔭 I’m currently working on fun projects
-- 🌱 I’m currently learning Python, C++ and C#
+- 🌱 I’m currently learning Assembly, C++, C# and Python
 - 👯 I’m looking to collaborate on open source software
 - ⚡ Fun fact: Linux can't love but kill
 
