@@ -2,12 +2,11 @@
 **mrmotionless/mrmotionless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi there, i'm Adrian 👋
+### Hi there, i'm Adorian 👋
 
-- 🔭 I’m currently working on fun projects
+- 🔭 I’m currently working on nothing.
 - 🌱 I’m currently learning Assembly, C++, C# and Python
 - 👯 I’m looking to collaborate on open source software
-- ⚡ Fun fact: Linux can't love but kill
 
 ---
 
@@ -25,21 +24,20 @@
 
 ### Get in touch:
 
-<img align="left" alt="Adrian Hillmann | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />mr_hillmann
+<img align="left" alt="Adorian Hillmann | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />mr_hillmann
 <br />
 <br />
-<img align="left" alt="Adrian Hillmann | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />DevilBlade#5203
-
+<img align="left" alt="Adorian Hillmann | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />アドリアン#4102
 <br />
 
 ---
 
-<img align="left" alt="Adrian's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmotionless&show_icons=true&hide_border=true&theme=radical" />
-<img align="right" alt="Adrian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrmotionless&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="Adorian's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mew-adorian&show_icons=true&hide_border=true&theme=radical" />
+<img align="right" alt="Adorian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mew-adorian&show_icons=true&hide_border=true&theme=radical" />
 
 <!-- Tools -->
 [intellij]: https://www.jetbrains.com/idea/
 [git]: https://git-scm.com/
 [gitkraken]: https://www.gitkraken.com/
-[github]: https://www.github.com/mrmotionless
+[github]: https://www.github.com/mew-adorian
 [java]: https://www.oracle.com/java/technologies/javase-downloads.html
