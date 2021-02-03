@@ -5,7 +5,7 @@
 ### Hi there, i'm Adorian 👋
 
 - 🔭 I’m currently working on nothing.
-- 🌱 I’m currently learning Assembly, C++, C# and Python
+- 🌱 I’m currently learning all cool Languages including Japanese
 - 👯 I’m looking to collaborate on open source software
 
 ---
