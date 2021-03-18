@@ -1,45 +1,27 @@
 <!--
 **mrmotionless/mrmotionless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
 ### Hi there, i'm Adorian 👋
-
-- I ❤️ Open Source
-
+Married with Source Code since 2010 :heart:
 ---
-
 ### Languages:
 
-- <a href=https://docs.oracle.com/en/java/>Java</a>
-
-#### Learning:
-- <a href=https://docs.microsoft.com/dotnet/csharp/>C#</a>
-- <a href=https://docs.microsoft.com/cpp/>C++</a>
-- <a href=https://docs.python.org/3/>Python 3</a>
-- <a href=https://dart.dev/>Dart</a>
-- <a href=https://flutter.dev/>Flutter</a>
-
-<br />
-
+|                 Mastered                 |                Moderate Knowledge               |                Learning                |
+|------------------------------------------|-------------------------------------------------|----------------------------------------|
+| [Java](https://docs.oracle.com/en/java/) | [Python3](https://docs.python.org/3/)           | [C++](https://docs.microsoft.com/cpp/) |
+| [Kotlin](https://kotlinlang.org/)        | [JavaScript](https://devdocs.io/javascript/)    | [Dart](https://dart.dev/)              |
+| [SQL/MySQL](https://dev.mysql.com/doc/)  | [C#](https://docs.microsoft.com/dotnet/csharp/) | [Flutter](https://flutter.dev/)        |
 ---
-
 ### Tools:
-
-- <a href=https://www.jetbrains.com/clion/>CLion</a>
-- <a href=https://www.jetbrains.com/idea/>IntelliJ IDEA</a>
-- <a href=https://www.jetbrains.com/pycharm/>PyCharm</a>
-- <a href=https://www.jetbrains.com/code-with-me>CodeWithMe</a>
-- <a href=https://git-scm.com/>Git</a>
-- <a href=https://github.com/>GitHub</a>
-- <a href=https://desktop.github.com/>GitHub Desktop</a>
-
+|  IDE  |  IDE-Plugins  |  Version Control  |
+|--------------------------------------------------|---------------------------------------------------------------------------------------|-----------------------------|
+| [CLion](https://www.jetbrains.com/clion/)        | [CodeWithMe](https://www.jetbrains.com/code-with-me)                                  | [Git](https://git-scm.com/) |
+| [IntelliJ IDEA](https://www.jetbrains.com/idea/) | [Discord Integration](https://plugins.jetbrains.com/plugin/10233-discord-integration) | [GitHub](https://github.com/) |
+| [PyCharm](https://www.jetbrains.com/pycharm/)    |                                                                                       |[GitHub Desktop](https://desktop.github.com/) |
 ---
-
 ### Get in touch:
-
 <a href=mailto://contact@adorian.de/>Contact E-Mail</a>
 
 ---
-
+<img align="left" alt="Adorian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mew-adorian&show_icons=true&hide_border=true&theme=radical" />
 <img align="left" alt="Adorian's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mew-adorian&show_icons=true&hide_border=true&theme=radical" />
-<img align="right" alt="Adorian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mew-adorian&show_icons=true&hide_border=true&theme=radical" />
