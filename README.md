@@ -8,34 +8,20 @@
 
 ### Languages:
 
-- [Java](https://docs.oracle.com/en/java/)
-- [JavaScript](https://devdocs.io/javascript/)
-- [Kotlin](https://kotlinlang.org/)
-- [C#](https://docs.microsoft.com/dotnet/csharp/)
-- [C++](https://docs.microsoft.com/cpp/)
+| "Pro"                                    | Moderate                                        | Beginner                               |
+| ---------------------------------------- | ----------------------------------------------- | -------------------------------------- |
+| [Java](https://docs.oracle.com/en/java/) | [JavaScript](https://devdocs.io/javascript/)    | [C++](https://docs.microsoft.com/cpp/) |
+| [Kotlin](https://kotlinlang.org/)        | [C#](https://docs.microsoft.com/dotnet/csharp/) |                                        |
 
 ---
 
-### IDE:
+### Tools:
 
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-- [CLion](https://www.jetbrains.com/clion/)
-
----
-
-### IDE-Plugins:
-
-- [CodeWithMe](https://www.jetbrains.com/code-with-me)
-- [Discord Integration](https://plugins.jetbrains.com/plugin/10233-discord-integration)
-- [Kotlin](https://plugins.jetbrains.com/plugin/6954-kotlin)
-
----
-
-### Version Control:
-
-- [Git](https://git-scm.com/)
-- [GitHub](https://github.com/)
-- [GitHub Desktop](https://desktop.github.com/)
+| IDE                                              | IDE-Plugins                                                  | Version Control:                              |
+| ------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------- |
+| [IntelliJ IDEA](https://www.jetbrains.com/idea/) | [CodeWithMe](https://www.jetbrains.com/code-with-me)         | [Git](https://git-scm.com/)                   |
+| [CLion](https://www.jetbrains.com/clion/)        | [Discord Integration](https://plugins.jetbrains.com/plugin/10233-discord-integration) | [GitHub](https://github.com/)                 |
+|                                                  | [Kotlin](https://plugins.jetbrains.com/plugin/6954-kotlin)   | [GitHub Desktop](https://desktop.github.com/) |
 
 ---
 
