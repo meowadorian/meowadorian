@@ -26,11 +26,9 @@ My name is Adrian, I'm 17 years old and a flexsexual programmer who creates bugs
 
 ### Socials: 
 
-<img alt="Discord" src="https://img.shields.io/badge/Discord-Adorian%234102-8c9eff?style=flat&logo=Discord&logoColor=white" />
-<a href=mailto://contact@adorian.de><img alt="EMail" src="https://img.shields.io/badge/E--Mail-contact@adorian.de-006fc0?style=flat&logo=Mail.ru&logoColor=white" /></a>
+<img alt="Discord" src="https://img.shields.io/badge/Discord-Adorian%234102-8c9eff?style=flat&logo=Discord&logoColor=white" /><br><a href=mailto://contact@adorian.de><img alt="EMail" src="https://img.shields.io/badge/E--Mail-contact@adorian.de-006fc0?style=flat&logo=Mail.ru&logoColor=white" /></a><br>
 <a href="https://wakatime.com/@meeeeeeeeeow" target="_blank" rel="noopener noreferrer"><img alt="EMail" src="https://img.shields.io/badge/WakaTime-@meeeeeeeeeow-527da4?style=flat&logo=WakaTime&logoColor=white" /></a>
 
 ---
 
 <img align="left" alt="Adorian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=meeeeeeeeeow&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
-<img align="left" alt="AdorianWakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=meeeeeeeeeow&hide_border=true&theme=tokyonight"></img>
