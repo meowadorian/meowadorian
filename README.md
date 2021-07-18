@@ -32,4 +32,5 @@ My name is Adrian, I'm 17 years old and a flexsexual programmer who creates bugs
 
 ---
 
-<img align="left" alt="Adorian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=meeeeeeeeeow&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" /><img align="left" alt="AdorianWakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=meeeeeeeeeow&hide_border=true&theme=tokyonight"></img>
+<img align="left" alt="Adorian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=meeeeeeeeeow&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="left" alt="AdorianWakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=meeeeeeeeeow&hide_border=true&theme=tokyonight"></img>
