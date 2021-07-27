@@ -27,4 +27,4 @@ My name is Adrian, I'm 17 years old and a flexsexual buggrammer.</p>
 
 ---
 
-<a href="#" target="_blank" rel="noopener noreferrer"><img align="left" alt="Adorian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=meeeeeeeeeow&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer"><img align="left" alt="Adorian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=meeeeeeeeeow&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" /></a>
