@@ -2,11 +2,11 @@
 **meeeeeeeeeow/meeeeeeeeeow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## Um ... Hey, I'm Meeeeeeeeeow
+## Uhm... Hey, I'm Meeeeeeeeeow
 
 <p>and not quite sure what to write here.<br>
 Soooo ...<br>
-My name is Adorian, I'm a 17 year old, flexsexual buggrammer.</p>
+My name is Adorian (aka. Adrian), I'm a almost 18 year old, flexsexual buggrammer.</p>
 
 
 ### My repertoire of programming languages (incl. Flavors and Frameworks) that I master. (Almost... Or not at all):
