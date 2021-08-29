@@ -6,7 +6,7 @@
 
 <p>and not quite sure what to write here.<br>
 Soooo ...<br>
-My name is Adorian (aka. Adrian), I'm a almost 18 year old, flexsexual buggrammer.</p>
+My name is Adorian (アドリアン), I'm a almost 18 year old, flexsexual buggrammer.</p>
 
 
 ### My repertoire of programming languages (incl. Flavors and Frameworks) that I master. (Almost... Or not at all):
