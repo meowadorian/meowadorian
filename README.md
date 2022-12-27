@@ -24,8 +24,10 @@ My name is Adorian (アドリアン), I'm a 18 year old, flexsexual buggrammer.<
 ### Socials: 
 
 <a href="https://bit.ly/3xvaZFp" target="_blank" rel="noopener noreferrer"><img alt="Discord" src="https://img.shields.io/badge/Discord-Adorian%234102-8c9eff?style=flat&logo=Discord&logoColor=white" /></a><br>
-<a href="https://bit.ly/2VFJk7D" target="_blank" rel="noopener noreferrer"><img alt="WakaTime" src="https://img.shields.io/badge/WakaTime-@meeeeeeeeeow-527da4?style=flat&logo=WakaTime&logoColor=white" /></a>
+
+<!-- OMG u found it! -->
+<!--<a href="https://bit.ly/2VFJk7D" target="_blank" rel="noopener noreferrer"><img alt="WakaTime" src="https://img.shields.io/badge/WakaTime-@meeeeeeeeeow-527da4?style=flat&logo=WakaTime&logoColor=white" /></a>--> 
+<!-- OMG u found it! -->
 
 ---
-
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer"><img align="left" alt="Adorian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=meeeeeeeeeow&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" /></a>
