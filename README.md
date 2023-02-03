@@ -2,12 +2,10 @@
 **meeeeeeeeeow/meeeeeeeeeow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 
-## ...,
+<!--## ...-->
 
 <h3>Rewriting...</h3>
 <p>Let's justpretend that it's perfectly normal for a dog to meow</p>
-
-<p>Adorian (アドリアン), 18, more bugs ehh features than actual code</p>
 
 <!--
 ---
