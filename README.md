@@ -2,12 +2,15 @@
 **meeeeeeeeeow/meeeeeeeeeow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 
-## Uhm... Hey, I'm Meeeeeeeeeow
+## ...,
 
-<p>and not quite sure what to write here.<br>
-Soooo ...<br>
-My name is Adorian (アドリアン), I'm a 18 year old buggrammer.</p>
+<h3>Rewriting...</h3>
+<p>Let's justpretend that it's perfectly normal for a dog to meow</p>
 
+<p>Adorian (アドリアン), 18, more bugs ehh features than actual code</p>
+
+<!--
+---
 
 ### My repertoire of programming languages (incl. Flavors and Frameworks) that I master. (Almost... Or not at all):
 
@@ -24,10 +27,6 @@ My name is Adorian (アドリアン), I'm a 18 year old buggrammer.</p>
 ### Socials: 
 
 <a href="https://bit.ly/3xvaZFp" target="_blank" rel="noopener noreferrer"><img alt="Discord" src="https://img.shields.io/badge/Discord-Adorian%234102-8c9eff?style=flat&logo=Discord&logoColor=white" /></a><br>
-
-<!-- OMG u found it! -->
-<!--<a href="https://bit.ly/2VFJk7D" target="_blank" rel="noopener noreferrer"><img alt="WakaTime" src="https://img.shields.io/badge/WakaTime-@meeeeeeeeeow-527da4?style=flat&logo=WakaTime&logoColor=white" /></a>--> 
-<!-- OMG u found it! -->
 
 ---
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer"><img align="left" alt="Adorian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=meeeeeeeeeow&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" /></a>
