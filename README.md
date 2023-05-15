@@ -5,7 +5,7 @@
 <!--## ...-->
 
 <h3>Rewriting...</h3>
-<p>Let's justpretend that it's perfectly normal for a dog to meow</p>
+<p>Let's just pretend that it's perfectly normal for a dog to meow</p>
 
 <!--
 ---
