@@ -3,10 +3,9 @@
 -->
 
 <div align="center">
-
 <img src="https://github.com/takemurahusky/takemurahusky/blob/db25306ee9b51dad25b6707eab2795b4705c887f/banner.gif" width="80%" />
 
-## ![](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=100&size=40&duration=2500&pause=2000&color=B648BB&center=true&vCenter=true&repeat=false&random=false&width=870&height=50&lines=Hewwo+I'm+Takemura)
+## <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=100&size=40&duration=2500&pause=2000&color=B648BB&center=true&vCenter=true&repeat=false&random=false&width=870&height=50&lines=Hewwo+I'm+Takemura" />
 
 ---
 
@@ -21,9 +20,9 @@
 
 ---
 
-## ![](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=100&size=40&duration=2500&pause=2000&color=B648BB&center=true&vCenter=true&repeat=false&random=false&width=870&height=50&lines=Quote)
+## <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=100&size=40&duration=2500&pause=2000&color=B648BB&center=true&vCenter=true&repeat=false&random=false&width=870&height=50&lines=Quote" />
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_frappe)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_frappe" />
 
 ---
 
@@ -44,10 +43,8 @@ function loadContactDetails() {
 
 </div>
 
-<!-- ToDo -->
-
 ---
 
-![](https://count.getloli.com/get/@:takemurahusky?theme=rule34)
+<img src="https://count.getloli.com/get/@:takemurahusky?theme=rule34" />
 
 </div>
