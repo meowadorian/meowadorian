@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![](https://github.com/takemurahusky/takemurahusky/blob/db25306ee9b51dad25b6707eab2795b4705c887f/banner.gif)
+<img src="https://github.com/takemurahusky/takemurahusky/blob/db25306ee9b51dad25b6707eab2795b4705c887f/banner.gif" width="50%" />
 
 ## ![](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=100&size=40&duration=2500&pause=2000&color=B648BB&center=true&vCenter=true&repeat=false&random=false&width=870&height=50&lines=Hewwo+I'm+Takemura)
 
