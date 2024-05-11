@@ -5,7 +5,7 @@
 <div align="center">
 <img src="https://github.com/takemurahusky/takemurahusky/blob/db25306ee9b51dad25b6707eab2795b4705c887f/banner.gif" width="80%" />
 
-## <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=100&size=40&duration=2500&pause=2000&color=B648BB&center=true&vCenter=true&repeat=false&random=false&width=870&height=50&lines=Hewwo+I'm+Takemura" />
+## <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=100&size=30&duration=2500&pause=2000&color=B648BB&center=true&vCenter=true&repeat=false&random=false&width=870&height=50&lines=Hewwo+I'm+Takemura" />
 
 ---
 
@@ -20,13 +20,11 @@
 
 ---
 
-## <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=100&size=40&duration=2500&pause=2000&color=B648BB&center=true&vCenter=true&repeat=false&random=false&width=870&height=50&lines=Quote" />
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_frappe" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_frappe" width="60%"/>
 
 ---
 
-<i>Take a look at my repositories and let's get in touch!</i>
+<span style="font-size:5em;"><i>Take a look at my repositories and let's get in touch!</i></span>
 <br><i>Or just to share your favorite music, games, or anime recommendations :3</i>
 
 <div align="left">
