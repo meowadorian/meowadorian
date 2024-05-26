@@ -11,7 +11,7 @@
 
 ---
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=takemurahusky&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=github_dark_dimmed" width="40%" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=takemurahusky&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=material-palenight" width="40%" align="right" />
 <!-- Blurb -->
 <pre>
     <a title="Working">💼</a> Backend Developer • Platform Engineer
